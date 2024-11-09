@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc0bnB3eTF2OG9xaW0xejg0a3p4MTRmdGd2NWQwY282NmpoZWZzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3JDLY0bJA5N6TLqM/giphy.webp"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -39,6 +35,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc0bnB3eTF2OG9xaW0xejg0a3p4MTRmdGd2NWQwY282NmpoZWZzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3JDLY0bJA5N6TLqM/giphy.webp"  />
 
 ###
 
